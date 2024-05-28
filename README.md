@@ -13,11 +13,6 @@ As being a Data and ML enthusiast I have tried many different projects related t
 
 - To get the Code for Exploratory data analysis/visualisations, different algorithms used and the model evaluation, click on the link mentioned below :
   **Link of jupyter notebook -** *[https://github.com/prakash4031/Machine-Learning-Project](https://github.com/prakash4031/Machine-Learning-Project)*
-  
-**A Demo of the Web App :**
-
-![Heart_disease](https://github.com/asthasharma98/Heart-Disease-Prediction-Deployment/blob/master/Readme_resources/heart_disease.gif)
- 
  
  ### Technical Aspect
  
